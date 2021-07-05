@@ -1,1 +1,1 @@
-This is my first ruby gem. At first it will be rough but i'll be posishing it ad nauseum. 
+This gem will display a list of wines. User will be able to choose a wine by number and get more information on that wine. 
